@@ -1,0 +1,1 @@
+https://hub.docker.com/layers/dpinhati/fullcycle-go-app/latest/images/sha256:c183d266370525ef7ea565a1c65b2f539b421a72744f8e08ae6a36a2a2717497?uuid=ca0962c4-5963-4c32-8d00-f5aca199668f%0A
